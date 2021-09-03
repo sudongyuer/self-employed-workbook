@@ -5,13 +5,17 @@
 
 
 
+#### [关于做自由职业的思考 【Bilibili】](https://www.bilibili.com/video/BV1BP4y1a7WE)
+
+
 #### 先整理出一个快乐的工位
 
 [视频](https://www.bilibili.com/video/BV1G64y1Y7CU/)
 
-![image-20210831192833490](README.assets/image-20210831192833490.png)
+<img src="README.assets/image-20210831192833490.png" width="500">
 
-#### 自由职业，就是越过公司，自己和市场交易
+
+#### 自由职业，就是越过公司，自己和市场交换价值
 
 
 
