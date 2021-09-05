@@ -5,12 +5,26 @@
 
 
 
+## 里程碑
+
+* 2021.9.1 
+  * 提离职后在家休息一周，正式开工搞自由职业
+  * 在家把桌子整理了一下作为工位  [视频](https://www.bilibili.com/video/BV1G64y1Y7CU/)
+  * 思考自由职业要干啥  [视频](https://www.bilibili.com/video/BV1BP4y1a7WE)
+* 2021.9.4
+  * 先写一些前端的教程，注册了一个土嗨的npm备用
+  * <img src="README.assets/image-20210905085618156.png" width="500">
+
+## 日常思考
+
+
+
 #### [关于做自由职业的思考 【Bilibili】](https://www.bilibili.com/video/BV1BP4y1a7WE)
 
 
-#### 先整理出一个快乐的工位
+#### [先整理出一个快乐的工位](https://www.bilibili.com/video/BV1G64y1Y7CU/)
 
-[视频](https://www.bilibili.com/video/BV1G64y1Y7CU/)
+
 
 <img src="README.assets/image-20210831192833490.png" width="500">
 
