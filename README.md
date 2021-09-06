@@ -15,7 +15,7 @@
   * 先写一些前端的教程，注册了一个土嗨的npm备用
   * <img src="README.assets/image-20210905085618156.png" width="500">
 * 9.6 根据冰山模型画了个学vue的进阶图，欢迎大家给点意见
-  * ![image-20210906224835179](README.assets/image-20210906224835179.png)
+  * <img src="README.assets/image-20210906225240923.png" alt="image-20210906225240923" style="zoom:50%;" />
 
 ## 日常思考
 
