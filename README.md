@@ -16,6 +16,16 @@
   * <img src="README.assets/image-20210905085618156.png" width="500">
 * 9.6 根据冰山模型画了个学vue的进阶图，欢迎大家给点意见
   * <img src="README.assets/image-20210906225240923.png" alt="image-20210906225240923" style="zoom:50%;" />
+* 9.8 制定作息
+  * 5:30起床 运动+吃早饭
+  * 7:30 看书 or coding 
+  * 12:00 打游戏 午睡 
+  * 14:00 看书 or coding or出去浪
+  * 18:00 媳妇到家 && 下班
+  * 写几个vscode，eslint插件来控制一下时间
+  * 拒绝沉迷编程，拒绝沉迷游戏
+
+
 
 ## 日常思考
 
