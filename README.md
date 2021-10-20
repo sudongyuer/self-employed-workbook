@@ -14,7 +14,7 @@
   * 思考自由职业要干啥  [视频](https://www.bilibili.com/video/BV1BP4y1a7WE)
 * 2021.9.4
   * 先写一些前端的教程，注册了一个土嗨的npm备用
-  * <img src="README.assets/image-20210905085618156.png" width="500">
+  * <img src="README.assets/image-20210905085618156.png" width="300">
 * 9.6 根据冰山模型画了个学vue的进阶图，欢迎大家给点意见
   * <img src="README.assets/image-20210906225240923.png" alt="image-20210906225240923" style="zoom:50%;" />
 * 9.8 制定作息
@@ -35,6 +35,8 @@
   * 抖音学浪开通 试试抖音直播卖课
   * 准备做一个前端刷面试题的小程序
 * 9.30 和极客时间合作，准备推出《Vue3》的专栏
+* 10.18 第一个里程碑，[《玩转Vue3全家桶》](http://gk.link/a/10BoB)上线啦，欢迎转发
+  * <img style="width:300px;" src="README.assets/image-20211020173045170.png">
 
 
 ## 日常思考
