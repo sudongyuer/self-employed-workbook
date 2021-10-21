@@ -37,7 +37,7 @@
 * 9.30 和极客时间合作，准备推出《Vue3》的专栏
 * 10.18 第一个里程碑，[《玩转Vue3全家桶》](http://gk.link/a/10BoB)上线啦，欢迎转发
   * <img style="width:300px;" src="README.assets/image-20211020173045170.png">
-
+* 10.23 参加早早聊Vue专场 
 
 ## 日常思考
 
